@@ -9,11 +9,11 @@
     "rtf",
     "odt"
   ],
-  "companyName": "[ COMPANY NAME HERE ]",
+  "companyName": "Fierro Hiring Solutions",
   "companyLogoPath": "",
   "companyUrl": "",
   "careersUrl": "",
-  "defaultLocale": "en-US",
+  "defaultLocale": "en-EU",
   "supportedLocales": [
       "en-US",
       "en-GB",
@@ -32,9 +32,9 @@
   "maxUploadSize": 5242880,
   "service": {
     "batchSize": 500,
-    "corpToken": "[ CORP TOKEN HERE ]",
+    "corpToken": "D8ZX29",
     "port": null,
-    "swimlane": "[ SWIMLANE HERE ]",
+    "swimlane": "70",
     "fields": [
       "id",
       "title",
